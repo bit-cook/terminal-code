@@ -6,7 +6,7 @@ import path from "node:path";
 
 import { BROWSER_HOME, RUNTIME_DIR, VENDOR_DIR } from "./paths";
 
-export const PINNED_VERSION = "main-2a739b3";
+export const PINNED_VERSION = "v0.7.0";
 
 const RELEASE_ORIGIN = process.env.TODE_RELEASE_ORIGIN ?? "https://terminal-browser.sh/install";
 
